@@ -1,5 +1,5 @@
 import React from "react";
-import { getClasses } from "../utils/getClasses";
+import { getClasses } from "../../utils/getClasses.jsx";
 import './styles.sass'
 
 const buttonTypes = {
