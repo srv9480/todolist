@@ -1,5 +1,6 @@
 import React from "react";
 import { getClasses } from "../utils/getClasses";
+import './styles.sass'
 
 const buttonTypes = {
   primary: "primary",
