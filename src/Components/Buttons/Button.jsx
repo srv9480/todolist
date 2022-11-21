@@ -1,4 +1,5 @@
 import React from "react";
+import { getClasses } from "../utils/getClasses";
 
 const buttonTypes = {
   primary: "primary",
